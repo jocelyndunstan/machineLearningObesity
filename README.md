@@ -1,2 +1,1 @@
-Code for the paper published in Health Informatics Journal "Predicting nationwide obesity from
-food sales using machine learning"
+Code for the paper "Predicting nationwide obesity from food sales using machine learning", acepted in Health Informatics Journal 
